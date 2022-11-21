@@ -1,6 +1,6 @@
-# A great Linux experience
+# MATE Improved
 
-This is a guide to make MATE desktop environment to be modern and add some Windows flavor to it. The parts that are not exclusive to MATE can be brought to others Gnome based DEs, or you can get an inspiration and find it some other way around to some of this.
+This is a guide to make MATE desktop environment and OS better and add some Windows flavor to it. The parts that are not exclusive to MATE can be brought to others Gnome based DEs, or you can get an inspiration and find it some other way around to some of this.
 
 Why not Gnome?  
 The problem with Gnome is modern and its ecosystem are more mature than KDE and alot of forks that relies on GTK. My problem with Gnome OSX inspired design decisions are pretty bad, the minimalism just making harder to use the shell and its tools. The support for dark mode are poor, some apps the window bar can become white.
